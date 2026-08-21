@@ -14,7 +14,7 @@ CrowdShield is a real-time, AI-driven predictive system designed to prevent crow
 * **Frontend:** HTML5, CSS3, JavaScript (Fetch API, Chart.js)
 
 ## ⚙️ How to Run Locally
-1. Clone the repository: `git clone <your-repo-link>`
+1. Clone the repository: `git clone https://github.com/tanmaya491718-cyber/CrowdShield`
 2. Install dependencies: `pip install flask scikit-learn pandas numpy`
 3. Run the backend server: `python App/server.py`
 4. Open your browser and navigate to `http://127.0.0.1:5000`
